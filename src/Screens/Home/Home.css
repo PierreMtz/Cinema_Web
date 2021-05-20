@@ -53,7 +53,7 @@
 .profile-card-2 .film-name  {
     position: absolute;
     left: 30px;
-    bottom: 140px;
+    bottom: 200px;
     font-size: 35px;
     color: #FFF;
     text-shadow: 0px 0px 20px rgba(0, 0, 0, 0.5);
@@ -79,7 +79,7 @@
 
 .profile-card-2 .film-duree  {
     position: absolute;
-    bottom: 110px;
+    bottom: 160px;
     left: 30px;
     color: #FFF;
     font-size: 20px;
@@ -91,7 +91,6 @@
     left: 30px;
     color: #FFF;
     font-size: 18px;
-    transition: all linear 0.25s;
 }
 .profile-card-2 .film-horraire  {
     position: absolute;
@@ -114,13 +113,13 @@
 }
 
 .profile-card-2:hover .film-name {
-    bottom: 110px;
+    bottom: 150px;
     background-color: rgba(0, 0, 0, 0.70);
 
 }
 
 .profile-card-2:hover .film-duree {
-    bottom: 80px;
+    bottom: 120px;
     background-color: rgba(0, 0, 0, 0.70);
 
 }

@@ -19,7 +19,7 @@ class Login extends React.Component {
   }
 
   handleclick(){
-   fetch('https://localhost:5001/auth/signIn',{
+    fetch('https://cinemovieapi.azurewebsites.net/auth/signin', {
        method: 'POST',
        headers:  {
            'Content-Type': 'application/json',
