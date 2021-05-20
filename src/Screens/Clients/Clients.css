@@ -1,0 +1,12 @@
+
+
+.navbarClass{
+    display: flex;
+    justify-content: space-between;
+
+}
+
+.logo{
+    height: 150px;
+    width: 150px;
+}
